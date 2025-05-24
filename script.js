@@ -16,6 +16,12 @@ const songsList = [
         artist: "Lạc Trôi",
         src: "assets/3.mp3",
         cover: "assets/3.jpg"
+    },
+    {
+        name: "Sơn Tùng M-TP",
+        artist: "Chạy Ngay Đi",
+        src: "assets/4.mp3",
+        cover: "assets/4.jpg"
     }
 ];
 
