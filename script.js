@@ -22,6 +22,12 @@ const songsList = [
         artist: "Chạy Ngay Đi",
         src: "assets/4.mp3",
         cover: "assets/4.jpg"
+    },
+    {
+        name: "CHIDORI REMIX",
+        artist: "THÁP RƠI TỰ DO",
+        src: "assets/5.mp3",
+        cover: "assets/5.jpg"
     }
 ];
 
